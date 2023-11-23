@@ -1,0 +1,5 @@
+﻿  snake---.cpp
+D:\CS\для belhard\проекты\snake---\snake---.cpp(282,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\CS\для belhard\проекты\snake---\snake---.cpp(282,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\CS\для belhard\проекты\snake---\snake---.cpp(179): warning C4715: Snake::checkRound: значение возвращается не при всех путях выполнения
+  snake---.vcxproj -> D:\CS\для belhard\проекты\snake---\Debug\snake---.exe
